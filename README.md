@@ -1,6 +1,6 @@
-# test-task
-there are 3 package.json files
-cd test-task npm i
-cd dots npm i
-cd dots_backend npm i
+# test-task <br/>
+there are 3 package.json files<br/>
+cd test-task npm i<br/>
+cd dots npm i<br/>
+cd dots_backend npm i<br/>
 then cd test-task npm start
