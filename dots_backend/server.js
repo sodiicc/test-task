@@ -3,7 +3,7 @@ const bodyParser = require("body-parser");
 const path = require("path");
 const MongoClient = require("mongodb").MongoClient;
 
-const API_PORT = 9000;
+const API_PORT = process.env.PORT || 9000;
 const app = express();
 
 app.use(bodyParser.json());
