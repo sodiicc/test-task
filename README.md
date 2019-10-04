@@ -11,6 +11,16 @@ To install modules:
 ```
 $ npm i
 ```
-cd dots npm i<br/>
-cd dots_backend npm i<br/>
+```
+cd dots
+```
+```
+npm i
+```
+```
+cd dots_backend
+```
+```
+npm i
+```
 then cd test-task npm start
