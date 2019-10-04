@@ -23,4 +23,9 @@ cd dots_backend
 ```
 npm i
 ```
-then cd test-task npm start
+```
+then cd test-task
+```
+```
+npm start
+```
